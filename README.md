@@ -1,3 +1,6 @@
+## Video Kaydı: ![Screen Recording 2024-08-28 at 04 58 07 59 PM](https://github.com/user-attachments/assets/5adf838a-7032-4ebe-b8e6-f8e1df909df7)
+
+ 
  ## Kütüphaneler
 - @reduxjs/toolkit
 - react-redux
